@@ -267,7 +267,7 @@ replace (
 	// use cosmos fork of keyring
 	github.com/99designs/keyring => github.com/cosmos/keyring v1.2.0
 
-	github.com/cosmos/cosmos-sdk => github.com/qj0r9j0vc2/cosmos-sdk v0.50.9
+	github.com/cosmos/cosmos-sdk => github.com/qj0r9j0vc2/cosmos-sdk v0.50.9-working-hash-logging
 
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 
